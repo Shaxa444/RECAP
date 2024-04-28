@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    overflow-x: hidden;
+}
+.shaxa{
+    background-image: linear-gradient(to bottom right, rgb(255, 0, 187),rgb(43, 0, 255));
+    width: 100vw;
+    height: 300vh;
+}
